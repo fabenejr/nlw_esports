@@ -1,5 +1,7 @@
 # nlw_esports
 
+Hello Guys aqui encontra-se um dos meus primeiros projetos desenvolidos pela @rocketseat :D 
+
 Projeto desenvolvido com as seguinte tecnologias:
 - TypeScript
 - React & ReactNative
