@@ -1,6 +1,6 @@
 # nlw_esports
 
-Hello Guys aqui encontra-se um dos meus primeiros projetos desenvolidos pela @rocketseat 😁
+Hello Guys aqui encontra-se um dos meus primeiros projetos desenvolidos pela @rocketseat 😆
 
 Projeto desenvolvido com as seguinte tecnologias:
 
