@@ -7,6 +7,7 @@ Projeto desenvolvido com as seguinte tecnologias:
 - TypeScript
 - React & ReactNative
 - TailWind CSS
+- NodeJS
 
 **Interface WEB:**
 ![image](https://user-images.githubusercontent.com/48933112/200059094-c4423736-1acb-4997-bbf5-6898be14db09.png)
